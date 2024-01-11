@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-essential-training",
+  "version": "1.0.0",
+  "description": "linkedin training nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "author": "jose Torres",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
